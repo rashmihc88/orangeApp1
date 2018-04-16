@@ -1,0 +1,7 @@
+generic\BaseTest.class
+pom\AddEmpPage.class
+pom\LoginPage.class
+pom\HomePage.class
+pom\PIMPage.class
+pom\AdminPage.class
+generic\AutoConstant.class
